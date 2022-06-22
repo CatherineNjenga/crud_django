@@ -1,2 +1,2 @@
-# crud_django
+# Django CRUD
 Working with Django CRUD
